@@ -3,7 +3,7 @@
 ![test](https://github.com/kafkiansky/reduce-arguments/workflows/test/badge.svg?event=push)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Quality Score](https://img.shields.io/scrutinizer/g/kafkiansky/reduce-arguments.svg?style=flat-square)](https://scrutinizer-ci.com/g/kafkiansky/reduce-arguments)
-[![StyleCI](https://styleci.io/repos/261290955/shield)](https://styleci.io/repos/261290955)
+[![StyleCI](https://styleci.io/repos/345302811/shield)](https://styleci.io/repos/345302811)
 [![Total Downloads](https://img.shields.io/packagist/dt/kafkiansky/reduce-arguments.svg?style=flat-square)](https://packagist.org/packages/kafkiansky/reduce-arguments)
 <a href="https://packagist.org/packages/kafkiansky/reduce-arguments"><img src="https://poser.pugx.org/kafkiansky/reduce-arguments/v/stable" alt="Latest Stable Version"></a>
 
