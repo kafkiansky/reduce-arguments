@@ -7,11 +7,11 @@ namespace Kafkiansky\ReduceArguments;
 use PhpParser\Node\Expr;
 use Psalm\Codebase;
 use Psalm\CodeLocation;
+use Psalm\Config as PsalmConfig;
 use Psalm\Context;
 use Psalm\IssueBuffer;
 use Psalm\Plugin\Hook\AfterExpressionAnalysisInterface;
 use Psalm\StatementsSource;
-use Psalm\Config as PsalmConfig;
 
 final class Hook implements AfterExpressionAnalysisInterface
 {
