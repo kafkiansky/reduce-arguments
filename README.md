@@ -32,7 +32,7 @@ If you want to use your own threshold, set the `argumentsCountThreshold` global 
 ...
 ```
 
-By default plugin use 4 as threshold.
+By default, plugin use 5 as threshold.
 
 ## Testing
 
