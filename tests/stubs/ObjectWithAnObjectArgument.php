@@ -12,7 +12,7 @@ final class ObjectWithAnObjectArgument
     public function __construct(string $argument1, object $argument2)
     {
         $this->argument1 = $argument1;
-        $this->argument2   = $argument2;
+        $this->argument2 = $argument2;
     }
 
     public static function create(string $argument1, object $argument2)
